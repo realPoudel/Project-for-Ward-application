@@ -7,10 +7,16 @@
 As we already mentioned, the application is friendly for Nepalese citizens only.
 
 ** An application is protected under SS Security Platform **
+
+
 Note:- SS Security is a software-based program that destroys the self when something error happens.
 
 The language used in this application is:-
+
+
 NEPAL ENGLISH(EN_NP)
+
+
 नेपाली (ने)
 
 ** Features available on this application are **
