@@ -20,24 +20,46 @@ NEPAL ENGLISH(EN_NP)
 नेपाली (ने)
 
 ** Features available on this application are **
+
+
 i) Details Regard Wards i. e. (Ward No, Ward Member, Member Contact Details, Population, Voter Candidate Number, and Gender Percentage Graphs) 
+
+
 ii) Ability to Vote (Inside Ward Program). 
+
+
 iii) Ward Program alert and Sports Program's alert.
+
+
 iv) Information regarding ward office charges i. e. (JanmaDarta, Married Certificate, Citizenship Document, and other programs that comes under ward office).
+
+
 v) Importance Number Details i. e. (Local Police, APF, Nepal Army, and other Government offices).
+
+
 
 ** This application is **free** and **Open Source**. **
 
 Anyone can contribute to this program 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Road Map of the Project**.
+
+
 Nepali Date
+
+
 2079/01/01 - Project Discussion
+
 2079/02/01 - Project Start for Design.
+
 2079/03/01 - Project Prototype Happen
+
 2079/04/04 - Additional Discussion for the Project.
+
 2079/05/01 - Project Started at SDK.
+
 2079/06/01 - Code review by Internal Coder. (Pre-Alpha Stage)
+
 2079/07/01 - Current month Running 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
