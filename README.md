@@ -4,7 +4,7 @@
 **हाम्रो वार्ड राम्रो वार्ड**  is an application for **Nepalese People**. 
 
 
-                          **Pre-Alpha Stage**
+**Pre-Alpha Stage**
                         
 As we already mentioned, the application is friendly for Nepalese citizens only.
 
