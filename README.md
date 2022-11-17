@@ -1,4 +1,5 @@
-![app_NEW](https://user-images.githubusercontent.com/45546591/202405482-70a2aaa3-1279-4e10-96e9-c7c344ca0322.svg)
+![app](https://user-images.githubusercontent.com/45546591/202405858-db6053a6-a220-4591-800e-204499c56cb5.jpg)
+
 
 **हाम्रो वार्ड राम्रो वार्ड**  is an application for **Nepalese People**. 
 
